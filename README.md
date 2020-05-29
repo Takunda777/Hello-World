@@ -1,1 +1,1 @@
-mkdir ~/pset1/
+Hello Wolrd
